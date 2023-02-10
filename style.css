@@ -6,10 +6,12 @@
 body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     line-height: 1.4;
+    background-color: gray;
 }
 .nav{
-    background-color: gray;
-    color: white;
+    background: white;
+    color: gray;
+    margin-bottom: 1rem;
     display: flex;
     justify-content: space-between;
     padding: 20px 20px;
